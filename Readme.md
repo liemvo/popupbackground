@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a popup background with the anchor at top, bottom, left or right
+This is a popup background with the anchor at the top, bottom, left or right
 
 ## Guideline
 
