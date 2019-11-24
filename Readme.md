@@ -6,6 +6,11 @@ This is a popup background with the anchor at top, bottom, left or right
 
 ## Guideline
 
+Add the dependency to your build gradle 
+```
+implementation 'com.github.liemvo:popupbackground:0.1'
+```
+
 PopupBackground can be initialised with the value of color, direction, topLeftRadius, topRightRadius, bottomLefRadius, bottomRightRadius, paddingSide, radius. These values have the default value so you don't need set when using PopupBackground.
 Example:
 
